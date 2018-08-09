@@ -1,5 +1,5 @@
 # WP-Ajax-Load-More
-Wordpress Ajax load more with storing loaded post ids in session
+Wordpress session based ajax load more posts. 
 
 ```
 <?php 
